@@ -1,0 +1,50 @@
+.intro-game, .learn-the-method, .basic-Training, .melodic-dictations, .shop{
+background-color: purple;
+border-radius: 5px;
+padding: 30px;
+padding-right: 72px;
+color: white;
+text-align: left;
+display: inline-block;
+font-size: 14px;
+
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+  .button-container button{
+      width: 250px;
+      margin-bottom: 20px;
+  }
+  
+  .learn-the-method{
+    background-color:rgb(59, 59, 226);
+    }
+
+.basic-Training{
+    background-color: rgb(50, 95, 50);
+}
+
+.melodic-dictations{
+    background-color: green;
+}
+
+.shop{
+    background-color: orange;
+}
+  
+
+a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+.second{
+    margin: 1px solid red;
+}

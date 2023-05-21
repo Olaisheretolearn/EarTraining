@@ -1,0 +1,58 @@
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.button-container button{
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+ .Dore, .Doremi, 
+.Doremifa, .Tido, 
+.Latido, .Solatido, 
+.The-Whole-Octave, 
+.Another-octave, 
+.Two-octaves-together{
+background-color: lightgreen;
+border-radius: 5px;
+padding: 8px;
+padding-right: 72px;
+color: white;
+text-align: left;
+display: inline-block;
+font-size: 14px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.Overview{
+background-color: rgb(46, 46, 103);
+border-radius: 5px;
+padding: 8px;
+padding-right: 72px;
+color: white;
+text-align: left;
+display: inline-block;
+font-size: 14px;
+}
+.back{
+    background-color: grey;
+border-radius: 5px;
+padding: 4px;
+}
+
+p{
+    text-align: center;
+}
+
+.greet-two{
+    margin-left: 50px;
+}
+
